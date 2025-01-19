@@ -52,7 +52,7 @@ This project focuses on **Book Genre Classification**, where a machine learning 
 
 ## 📂 Dataset Information
 - The dataset used for this project is publicly available.  
-- [Download the Dataset Here](#) *(Add link to the dataset)*  
+- BooksDataSet.csv 
 
 ---
 
